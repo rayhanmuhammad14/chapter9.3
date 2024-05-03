@@ -1,0 +1,15 @@
+blinker
+cffi
+click
+colorama
+cryptography
+dnspython
+Flask
+itsdangerous
+Jinja2
+jwt
+MarkupSafe
+pycparser
+PyJWT
+pymongo
+Werkzeug
